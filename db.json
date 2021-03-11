@@ -1,7 +1,6 @@
-['my-nft': {
+'my-nft': {
         'name': 'OpenSea Creatures',
         'description': 'Friendly creatures of the sea.',
         'image': 'https://storage.opensea.io/files/9902ba6a0ef2ae1e1487fa9c1d26ea28.svg',
         'external_link': 'https://github.com/ProjectOpenSea/opensea-creatures/'
     }
-]
